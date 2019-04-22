@@ -10,6 +10,6 @@ package com.lee;
 public class Test1 {
     public static void main(String[] args) {
         System.out.println("Hello");
-        System.out.println("Test...");
+        System.out.println("Master...");
     }
 }
